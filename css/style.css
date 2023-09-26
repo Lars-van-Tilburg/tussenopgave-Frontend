@@ -1,5 +1,5 @@
 nav{
-    background-image:url(/foto/navbg.png);
+    background-image:url(../foto/navbg.png);
     padding: 20px;
     border-bottom: outset;
     border-color: black;
@@ -48,7 +48,7 @@ a {
   }
 
   body{
-    background-image:url(/foto/background.png);
+    background-image:url(../foto/background.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -75,7 +75,7 @@ a {
   }
 
   .preformence{
-    background-image:url(/foto/sectionbg.png);
+    background-image:url(../foto/sectionbg.png);
     display: flex;
     margin: 1vw auto;
   }
