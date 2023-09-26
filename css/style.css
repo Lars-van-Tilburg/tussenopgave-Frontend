@@ -80,11 +80,11 @@ a {
     background-image:url(../foto/sectionbg.png);
     display: flex;
     margin: 1vw auto;
+    justify-content: space-between;
   }
 
   .specs{
     display: flex;
-    justify-content: space-between;
     width: 70vw;
     margin: 1vw auto;
   }
